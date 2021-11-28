@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/23746/Desktop/robot_test/build",
+  "command": "D:/mingw/bin/mingw32-g++.exe   -g -o CMakeFiles/demo.dir/main.cpp.obj -c C:/Users/23746/Desktop/robot_test/main.cpp",
+  "file": "C:/Users/23746/Desktop/robot_test/main.cpp"
+},
+{
+  "directory": "C:/Users/23746/Desktop/robot_test/build",
+  "command": "D:/mingw/bin/mingw32-g++.exe   -g -o CMakeFiles/demo.dir/Srobotconfig.cpp.obj -c C:/Users/23746/Desktop/robot_test/Srobotconfig.cpp",
+  "file": "C:/Users/23746/Desktop/robot_test/Srobotconfig.cpp"
+}
+]
